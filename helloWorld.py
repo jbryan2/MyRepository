@@ -4,10 +4,10 @@
 #
 # Author: Mr. Bryan
 
+
 def main() :
 
-    print("Hello")
-    print("World")
+    print("Hello World")
 
 
 main()
